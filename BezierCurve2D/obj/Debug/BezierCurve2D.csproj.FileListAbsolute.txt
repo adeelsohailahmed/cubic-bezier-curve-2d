@@ -1,0 +1,9 @@
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\bin\Debug\BezierCurve2D.exe.config
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\bin\Debug\BezierCurve2D.exe
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\bin\Debug\BezierCurve2D.pdb
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Debug\BezierCurve2D.csprojResolveAssemblyReference.cache
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Debug\BezierCurve2D.Form1.resources
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Debug\BezierCurve2D.Properties.Resources.resources
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Debug\BezierCurve2D.csproj.GenerateResource.Cache
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Debug\BezierCurve2D.exe
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Debug\BezierCurve2D.pdb
