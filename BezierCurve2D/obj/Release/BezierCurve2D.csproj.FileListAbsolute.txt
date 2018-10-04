@@ -6,3 +6,4 @@ D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Release\BezierCurve2D.Proper
 D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Release\BezierCurve2D.csproj.GenerateResource.Cache
 D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Release\BezierCurve2D.exe
 D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Release\BezierCurve2D.pdb
+D:\BSCS\VS Projects\BezierCurve2D\BezierCurve2D\obj\Release\BezierCurve2D.csprojResolveAssemblyReference.cache
