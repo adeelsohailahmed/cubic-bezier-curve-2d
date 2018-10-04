@@ -1,4 +1,4 @@
-# CubicBezierCurve2D
+# Cubic Bezier Curve 2D
 A simple program to generate 2-D Cubic Bezier Curves in C#
 
 # Features
